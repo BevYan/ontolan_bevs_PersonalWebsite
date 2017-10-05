@@ -1,0 +1,50 @@
+body {
+margin: 0;
+	paddin: 0;
+	background: url(bg.jpg) fixed;
+	background-size: cover;
+	position: absolute;
+}
+
+.box{
+width: 1300px;
+height: 50px;
+margin-left: 14%;
+}
+
+.floating-iiii {
+	width: 150px;
+	height:60px;
+	margin-left: 2%;
+	margin-top: .2%;
+}
+
+.floating-i {
+	width: 150px;
+	height:60px;
+	margin-left: 2%;
+	margin-top: .2%;
+}
+
+.floating-imag{
+	width: 150px;
+	height:60px;
+	margin-left: 2%;
+	margin-top: .2%;
+}
+
+.text {
+width: 1100px;
+height: 400px;
+background-color: rgba(0, 0, 0, 0.1);
+margin-left: 10%;
+margin-top: 4%;
+}
+
+.img {
+width: 1100px;
+height: 400px;
+background-color: rgba(0, 0, 0, 0.1);
+margin-left: 10%;
+margin-top: 5%;
+}
