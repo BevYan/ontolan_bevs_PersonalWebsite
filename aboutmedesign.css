@@ -1,0 +1,83 @@
+body {
+margin: 0;
+	paddin: 0;
+	background: url(bg.jpg) fixed;
+	background-size: cover;
+	position: absolute;
+}
+
+.box{
+width: 1300px;
+height: 50px;
+margin-left: 14%;
+}
+
+.floating-iiii {
+	width: 150px;
+	height:60px;
+	margin-left: 2%;
+	margin-top: .2%;
+}
+
+.floating-i {
+	width: 150px;
+	height:60px;
+	margin-left: 2%;
+	margin-top: .2%;
+}
+
+.floating-imag{
+	width: 150px;
+	height:60px;
+	margin-left: 2%;
+	margin-top: .2%;
+}
+
+.row:after{
+	content="";
+	display: table;
+	clear: both;
+}
+
+.row{
+	margin-top: 2%;
+	margin-left: 10%;
+	font-family: 'Bradley Hand ITC', sans-serif;
+}
+
+.column {
+	float:left;
+	padding 10px;
+	height: 300px;
+}
+ .left{
+	width:65%;
+	height: 1100px;
+	text-align: center;
+}
+
+.left h1{
+	font-size: 40px;
+}
+
+.left h2{
+	text-align: left;
+	margin-top: 5%;
+	margin-left: 20%;
+	font-size: 23px;
+	font-family: 'Century Gothic', sans-serif;
+}
+
+.left p{
+	text-align: left;
+	margin-left: 30%;
+	font-size: 15px;
+	font-family: 'Century Gothic', sans-serif;
+}
+
+.right{
+	width:25%;
+	height: 1000px;
+	background-color: rgba(0, 0, 0, 0.1);
+	margin-left: 5%;
+}
